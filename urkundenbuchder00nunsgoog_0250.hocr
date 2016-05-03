@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./urkundenbuchder00nunsgoog_0250.png"; bbox 0 0 4459 5167; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 515 1910 1543 2226">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 515 1910 1543 2226">
+     <span class='ocr_line' id='line_1_1' title="bbox 607 1910 1461 2024; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 607 1910 1461 2024; x_wconf 79' lang='lat' dir='ltr'><strong>OISTEROIENSERINNEN·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 515 2099 1543 2226; baseline -0.003 -3"><span class='ocrx_word' id='word_1_2' title='bbox 515 2099 1163 2226; x_wconf 81' lang='lat' dir='ltr'><strong>(HEILIGENBLUT·)</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1193 2107 1543 2220; x_wconf 80' lang='lat' dir='ltr'>KLOSTER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 733 2336 1329 2512">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 733 2336 1329 2512">
+     <span class='ocr_line' id='line_1_3' title="bbox 733 2336 1329 2512; baseline -0.002 -40"><span class='ocrx_word' id='word_1_4' title='bbox 733 2336 1329 2512; x_wconf 76' lang='lat' dir='ltr'><strong>WATERLER.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2234 5167">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2234 5167">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2234 5167; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 2234 5167; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

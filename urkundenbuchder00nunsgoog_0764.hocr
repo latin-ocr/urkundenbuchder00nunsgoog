@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./urkundenbuchder00nunsgoog_0764.png"; bbox 0 0 4459 5167; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 766 523 3623 4855">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 766 523 3623 4855">
+     <span class='ocr_line' id='line_1_1' title="bbox 766 523 3623 4855; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 766 523 3623 4855; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1655 320 2730 433">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1655 320 2730 433">
+     <span class='ocr_line' id='line_1_2' title="bbox 1655 320 2730 433; baseline -0.002 -26"><span class='ocrx_word' id='word_1_2' title='bbox 1655 323 1881 408; x_wconf 78' lang='lat' dir='ltr'>Hohe</span> <span class='ocrx_word' id='word_1_3' title='bbox 1956 320 2730 433; x_wconf 71' lang='lat' dir='ltr'><strong>Stiftsgeistlinhkeit.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3034 180 3388 232">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3034 180 3388 232">
+     <span class='ocr_line' id='line_1_3' title="bbox 3034 180 3388 232; baseline 0 -1"><span class='ocrx_word' id='word_1_4' title='bbox 3034 180 3233 232; x_wconf 78' lang='lat' dir='ltr'>Tafel</span> <span class='ocrx_word' id='word_1_5' title='bbox 3278 180 3388 231; x_wconf 89' lang='lat' dir='ltr'><strong>IV.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
